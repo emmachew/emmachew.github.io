@@ -4,28 +4,47 @@
     <title>Skill Network Analysis in Reddit</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-        /* CSS for Visualization 1 */
-        .flourish-embed#viz1 {
-            width: 100%;
-            height: 500px;
-            margin-bottom: 40px;
-            border: 1px solid #e1e1e1;
-        }
-        
-        /* CSS for Visualization 2 */
-        .flourish-embed#viz2 {
-            width: 90%;
-            height: 400px;
+        /* Base Styles */
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1000px;
             margin: 0 auto;
-            background: #f9f9f9;
+            padding: 20px;
+            background: #f8f9fa;
         }
         
-        /* CSS for Visualization 3 */
-        .flourish-embed#viz3 {
-            width: 80%;
-            height: 600px;
-            margin: 20px auto;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        /* Consistent Visualization Container */
+        .viz-container {
+            width: 100%;
+            height: 500px; /* Fixed height for all */
+            margin-bottom: 50px; /* Spacing between visualizations */
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+        }
+        
+        /* Titles for each viz */
+        .viz-title {
+            padding: 15px 20px;
+            margin: 0;
+            background: #f1f3f5;
+            border-bottom: 1px solid #e0e0e0;
+            font-size: 1.2em;
+        }
+        
+        /* Flourish embed fill container */
+        .flourish-embed {
+            width: 100%;
+            height: calc(100% - 50px); /* Adjust for title height */
+        }
+        
+        /* Mobile responsiveness */
+        @media (max-width: 768px) {
+            .viz-container {
+                height: 400px;
+                margin-bottom: 30px;
+            }
         }
     </style>
 </head>
