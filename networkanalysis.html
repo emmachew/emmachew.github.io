@@ -77,18 +77,21 @@
     <!-- Project Description Section -->
     <div class="project-description">
         <h2>Project Objectives</h2>
-        <p>This project analyzes skill demand trends across three key data-focused subreddits during the peak hiring period of January-April 2025. Key goals:</p>
+        <p>This project analyzes skill demand trends across three key data-focused subreddits during the peak hiring period of January-April 2025.</p>
+        
+        <h3>Key goals:</h3>
         <ul>
-            <li>Identify the most frequently mentioned technical/non-technical skills in job-seeking discussions</li>
+            <li>Identify the most frequently mentioned technical skills in job-seeking discussions</li>
             <li>Compare skill emphasis across analytics, data science, and data engineering communities</li>
             <li>Detect skill co-occurrence patterns (which skills are mentioned together in posts/comments)</li>
             <li>Surface emerging tools or methodologies gaining traction in 2025</li>
         </ul>
         
         <h3>Methodology</h3>
-        <p><strong>Data Collection:</strong> Scraped all posts and comments from r/analytics, r/datascience, and r/dataengineering between Jan 1 - Apr 30 2025 using Python (PRAW/PSAW).</p>
-        <p><strong>Text Processing:</strong> Applied NLP techniques (lemmatization, POS tagging) to extract skills from unstructured text. Standardized variants (e.g., "PyTorch" vs "pytorch").</p>
+        <p><strong>Data Collection:</strong> Scraped all posts and comments from r/Analytics, r/Datascience, and r/Dataengineering between Jan 1 - Apr 30 2025 using Python and Reddit API.</p>
+        <p><strong>Text Processing:</strong> Applied NLP techniques to extract skills from unstructured text. Standardised variants (e.g., "PyTorch" vs "pytorch").</p>
         <p><strong>Network Analysis:</strong> Built co-occurrence networks where nodes represent skills and edges represent shared mentions in the same post/comment. Weighted by frequency.</p>
+        <p><strong>Community Detection:</strong> Utilised Louvain algorithm to detect emerging skill clusters to identify job scope aspects of each data role.</p>
         <p><strong>Visualization:</strong> Used Flourish to create interactive network graphs highlighting central skills and community clusters.</p>
     </div>
 
