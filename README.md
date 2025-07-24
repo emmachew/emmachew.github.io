@@ -14,7 +14,7 @@
 
 ## Business Case Studies
 
-### View List of Cases here (Password Protected)
+### Case Studies
 
 [View List](/cases.html)
 
