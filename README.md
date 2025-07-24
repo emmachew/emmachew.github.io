@@ -12,7 +12,13 @@
 <b>2020-2023</b> Senior Manager @ Intage Group<br>
 <b>2018-2020</b> Researcher @ Singapore Management University<br>
 
-## Projects
+## Business Case Studies
+
+### User Retention for Food Delivery Subscription Program
+
+[View Project](https://docs.google.com/presentation/d/17XJcgcvGRLDSGv1dy8f2H7V-ohA6zsstliWb-WmmGTA/edit?usp=sharing)
+
+## Data Analytics Projects
 
 ### The Reddit Data Job Market Report: Skills in Demand in 2025
 
