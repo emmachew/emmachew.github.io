@@ -14,9 +14,9 @@
 
 ## Business Case Studies
 
-### User Retention for Food Delivery Subscription Program
+### View List of Cases here (Password Protected)
 
-[View Project](/networkanalysis.html)
+[View List](/cases.html)
 
 ## Data Analytics Projects
 
