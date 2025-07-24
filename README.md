@@ -16,7 +16,7 @@
 
 ### User Retention for Food Delivery Subscription Program
 
-[View Project](https://docs.google.com/presentation/d/17XJcgcvGRLDSGv1dy8f2H7V-ohA6zsstliWb-WmmGTA/edit?usp=sharing)
+[View Project](/networkanalysis.html)
 
 ## Data Analytics Projects
 
