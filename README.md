@@ -5,12 +5,12 @@
 - Bachelors of Science, Economics | Singapore Management University
 
 ## Work Experience
-<b>2024-2025</b> Data Analyst @ Allianz Insurance<br>
-<b>2024-2024</b> Researcher @ Singapore-MIT Alliance for Research & Technology<br>
-<b>2023-2023</b> Marketing Analytics Consultant<br> 
-<b>2023-2023</b> Senior Manager @ NielsenIQ<br>
-<b>2020-2023</b> Senior Manager @ Intage Group<br>
-<b>2018-2020</b> Researcher @ Singapore Management University<br>
+<b>2024-Present</b> Data Analyst @ Allianz Insurance<br>
+<b>2024</b> Researcher @ Singapore-MIT Alliance for Research & Technology<br>
+<b>2023</b> Marketing Analytics Consultant<br> 
+<b>2023</b> Senior Manager @ NielsenIQ<br>
+<b>2020</b> Senior Manager @ Intage Group<br>
+<b>2018</b> Researcher @ Singapore Management University<br>
 
 ## Business Case Studies
 
@@ -20,6 +20,6 @@
 
 ## Data Analytics Projects
 
-### The Reddit Data Job Market Report: Skills in Demand in 2025
+### Mapping the Evolution of Data Talent: A Reddit Network Analysis
 
 [View Project](/networkanalysis.html)
